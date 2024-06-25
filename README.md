@@ -1,6 +1,6 @@
 # About me
 
-I'm currently interested in numerical optimization, uncertainty quantification, and inverse methods. I work with various electromagnetic data types including passive (magnetotelluric), active (controlled-source), and Schlumberger DC resistivity soundings.
+My current interests incude numerical optimization, uncertainty quantification, and inverse methods. I work with various electromagnetic data types including passive (magnetotelluric), active (controlled-source), and Schlumberger DC resistivity soundings.
 <!--
 **kyivey/kyivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
